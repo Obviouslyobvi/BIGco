@@ -99,3 +99,43 @@ Summary:
 - https://news.ycombinator.com/item?id=46800146
 - https://news.ycombinator.com/item?id=47638685
 - https://hn.algolia.com/api/v1/search?query=%22is%20this%20safe%20to%20install%22&tags=comment
+
+---
+
+# Round 3 ("Find another idea")
+
+Summary:
+- I swept 2026 Hacker News comments for "I wish there was" (263 hits), "why is there no" and "shut up and take my money" (23 hits). Most were one-offs about gadgets or big companies.
+- **One strong cluster stood out: learning to *speak* a tonal language, especially Cantonese.** A tool that grades your Mandarin tones got **469 points and 153 comments**. Commenters asked for Cantonese and "more languages", and one wrote "Seriously, shut up and take my money now."
+- Older threads (2025 to 2026) keep saying the same thing: there are hardly any good resources for Cantonese, compared with how many people speak it.
+- I added 16 quotes (87 total).
+
+| Rank (this round) | Pain | Quotes | Avg severity | Score | Explicit "I'd pay"? |
+|---|---|---|---|---|---|
+| 1 | **Tonal / heritage language speaking practice** (cantonese-resources-scarce + tone-practice-gap + heritage-language-gap) | 14 | 3.5 | 49 | **Yes, 1** ("shut up and take my money") |
+| watch | tone-grading-accuracy (a risk, not a pain) | 2 | 3.0 | 6 | n/a |
+
+Compared with earlier rounds: InstallCheck scored 37 (no "I'd pay"), and BigSteps scored 33 (2 "I'd pay").
+
+## In detail
+- **Who:** two groups. (a) Learners of Mandarin or Cantonese whose own language has no tones. (b) **Heritage speakers**: people who grew up hearing a family language and want to speak it with parents and grandparents.
+- **When:** speaking practice. Reading apps exist; feedback on *how you sound* barely does.
+- **What they do today:** guess; ask a native-speaker partner; use apps that "claim they do the same thing, but they don't" ([erdemo](https://news.ycombinator.com/item?id=46832074)).
+- Quotes:
+  - "Seriously, shut up and take my money now." [byb](https://news.ycombinator.com/item?id=46832972)
+  - "How difficult would it be to adapt this to Cantonese? It is a surprisingly difficult language to learn." [stuxnet79](https://news.ycombinator.com/item?id=46832074)
+  - "the lack of learning materials relative to the number of speakers" [hnfong](https://news.ycombinator.com/item?id=46834423)
+  - "Nowadays I'm learning my parents' tongue (Cantonese) and Mandarin." [lambdasquirrel](https://news.ycombinator.com/item?id=44142134)
+- **Warning sign:** two native speakers said the Mandarin tool marked them wrong ([olalonde](https://news.ycombinator.com/item?id=46832074), [tifan](https://news.ycombinator.com/item?id=46832074)). Grading accuracy is the make-or-break problem.
+
+## Sources (round 3)
+- https://news.ycombinator.com/item?id=46832074
+- https://news.ycombinator.com/item?id=46832972
+- https://news.ycombinator.com/item?id=46834423
+- https://news.ycombinator.com/item?id=46833074
+- https://news.ycombinator.com/item?id=42926722
+- https://news.ycombinator.com/item?id=42923620
+- https://news.ycombinator.com/item?id=44142134
+- https://news.ycombinator.com/item?id=44389928
+- https://hn.algolia.com/api/v1/search?query=%22I%20wish%20there%20was%22&tags=comment
+- https://hn.algolia.com/api/v1/search?query=%22shut%20up%20and%20take%20my%20money%22&tags=comment

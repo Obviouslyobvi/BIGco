@@ -45,3 +45,10 @@ hn-search,https://hn.algolia.com/api/v1/search?query=%22I%20would%20pay%22&tags=
 hn-search,https://hn.algolia.com/api/v1/search?query=%22is%20this%20safe%20to%20install%22&tags=comment,HN comments "is this safe to install" in 2026,2026-10-17,0 hits,round 2 InstallCheck check: no extra demand found
 web,https://www.idropnews.com/how-to/ios-18-lets-you-give-remote-control-of-your-iphone-or-ipad-via-facetime/226438,iOS 18 FaceTime remote control,2024+,UNKNOWN,competitor to parent-tech-help
 web,https://scribe.com/pricing,Scribe pricing,2026-10-17,UNKNOWN,competitor to parent-tech-help
+hackernews,https://news.ycombinator.com/item?id=46832074,Show HN: I trained a 9M speech model to fix my Mandarin tones,2026-01-31,469 points / 153 comments,round 3; tone practice
+hn-search,https://hn.algolia.com/api/v1/search?query=cantonese%20learn&tags=comment,HN comments on learning Cantonese since 2025,2026-10-17,34 hits,round 3
+hn-search,https://hn.algolia.com/api/v1/search?query=%22I%20wish%20there%20was%22&tags=comment,HN "I wish there was" comments since mid-2026,2026-10-17,263 hits,round 3 sweep
+hn-search,https://hn.algolia.com/api/v1/search?query=%22shut%20up%20and%20take%20my%20money%22&tags=comment,HN "shut up and take my money" in 2026,2026-10-17,23 hits,round 3 sweep
+web,https://simedw.com/2026/01/31/ear-pronunication-via-ctc/,Author write-up of the Mandarin tone model,2026-01-31,UNKNOWN,9M params; ~300h data; runs in browser; no license stated
+web,https://www.hunted.space/product/yumcha,YumCha (Cantonese app) on Product Hunt tracker,2026,2 upvotes,competitor; grades tones
+web,https://datacollective.mozillafoundation.org/datasets/cmn29rqn9016to107eniyak65,Common Voice 25.0 Cantonese,2026-03-22,307 hours (211 validated),CC0; no re-hosting allowed

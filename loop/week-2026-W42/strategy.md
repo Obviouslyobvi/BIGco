@@ -143,3 +143,75 @@ Zero today. Possible later: **switching costs** (a family's saved guide library)
 - https://scribe.com/pricing
 - https://news.ycombinator.com/item?id=50071898
 - https://dupple.com/learn/best-invoicing-software-for-freelancers
+
+---
+
+# Round 3 ("Find another idea")
+
+Summary:
+- **New pick: "ToneHome" (working name).** A website where heritage speakers practice the Cantonese phrases they'd say to their family, and get told **which tone they got wrong**.
+- Why: it's the strongest raw demand this week (score 49 from 14 quotes, a 469-point Show HN). Big apps reportedly skip Cantonese, and there's free CC0 training data.
+- Main risk: **grading accuracy.** Even the Mandarin tool marked native speakers wrong. This is harder to build than BigSteps.
+- BigSteps stays on the shortlist as the easier, faster option.
+
+## Candidates (round 3)
+
+| # | Idea | Pain | Gap | Why / why not |
+|---|---|---|---|---|
+| 1 | **ToneHome**: Cantonese tone practice for heritage speakers | tonal/heritage practice (score 49) | Accurate feedback, on the web, family phrases | Strongest demand; harder build |
+| 2 | BigSteps (round 2) | parent-tech-help (33) | Async giant-arrow guides | Easy build; FaceTime is a threat |
+| 3 | Crowdsourced "AI slop" filter for YouTube | 1 quote ([encom](https://news.ycombinator.com/item?id=49936907)) | Like SponsorBlock, for AI videos | Only one signal |
+| 4 | Garden photos to 3D landscaping model | 1 Ask HN ([Fh_](https://news.ycombinator.com/item?id=49905935)) | Drag-and-drop 3D yard | Only one signal; hard build |
+
+## The pick: ToneHome
+
+### JTBD
+"When **I want to talk to my grandparents in Cantonese**, I want to **know if my tones are right before I say it**, so I can **speak without being corrected or misunderstood**."
+From: [lambdasquirrel](https://news.ycombinator.com/item?id=44142134) ("learning my parents' tongue"), [stuxnet79](https://news.ycombinator.com/item?id=46832074), [hnfong](https://news.ycombinator.com/item?id=46834423).
+
+### ERRC grid (vs YumCha, textbooks and asking family)
+
+| Eliminate | Reduce | Raise | Create |
+|---|---|---|---|
+| App store download (it's a website) | Reading and characters (speaking first) | Tone feedback detail: *which* syllable, *which* tone | Family-phrase packs ("Have you eaten?", "I miss you") |
+| Lessons you don't need | Embarrassment of asking family | Honesty: show confidence, admit "not sure" | Heritage-speaker focus |
+
+### Thiel's 7 questions
+
+| Question | Answer | Evidence or UNKNOWN |
+|---|---|---|
+| Engineering: 10x? | Only if grading is accurate. UNKNOWN until tested | Native speakers were marked wrong by the Mandarin tool ([olalonde](https://news.ycombinator.com/item?id=46832074)) |
+| Timing: why now? | Small speech models now run in a browser (~13 MB download), and 307 hours of free Cantonese data exist | [simedw write-up](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/), [Common Voice 25.0](https://datacollective.mozillafoundation.org/datasets/cmn29rqn9016to107eniyak65) |
+| Monopoly | "Cantonese heritage speakers who want to talk to family" is a small, emotional niche | Size UNKNOWN |
+| People: can we build it? | v1 (pitch-only) yes. A trained model would need GPU rental. The Mandarin author used 8 hours on 4x RTX 4090; cost UNKNOWN, and bots can't spend money | simedw write-up |
+| Distribution | Show HN, Cantonese learner communities, sharing with siblings and cousins | Untested |
+| Durability | Heritage language loss keeps happening across generations | Reasoning only. UNKNOWN |
+| Secret | The buyer isn't a "language learner". They're a grandchild who wants to talk to grandma | lambdasquirrel quote; otherwise UNKNOWN |
+
+### 7 Powers
+Zero now. Possible later: **process power or cornered resource** (a better-tuned Cantonese tone model plus native recordings we own), and **branding** in a small community.
+
+### Narrowest wedge
+**English-dominant adults with Cantonese-speaking parents.** One job: pick one of 30 family phrases, hear a native recording, say it, and see each syllable marked right or wrong with the tone you said vs the tone expected.
+- **v1 uses pitch tracking in the browser** (no model training, no spending money), compared with **our own native-speaker recordings**. Common Voice clips can't be re-hosted, so they can't be the playback audio.
+- A trained model comes later, only if v1 shows demand.
+
+### 7-day test
+- **Before:** the human finds one native Cantonese speaker to record 30 phrases (a friend or a paid helper; the human decides, since bots don't spend money).
+- **Do:** the human posts a Show HN and a reply in the Mandarin tone thread.
+- **Pass:** 100 or more practice attempts by strangers, **and** 20 or more emails on a "$5/month, more phrases" waitlist, **and** at least 3 native speakers confirming it marks *them* correct.
+- **Fail:** fewer than 25 attempts, or native speakers marked wrong more than about 1 time in 3. Then stop.
+
+## Runners-up
+- **BigSteps:** easier and faster, a good "first win". Still on the shortlist.
+- **InstallCheck:** parked (no new evidence).
+
+## Sources (round 3)
+- https://news.ycombinator.com/item?id=46832074
+- https://news.ycombinator.com/item?id=46834423
+- https://news.ycombinator.com/item?id=44142134
+- https://news.ycombinator.com/item?id=49936907
+- https://news.ycombinator.com/item?id=49905935
+- https://simedw.com/2026/01/31/ear-pronunication-via-ctc/
+- https://datacollective.mozillafoundation.org/datasets/cmn29rqn9016to107eniyak65
+- https://www.hunted.space/product/yumcha

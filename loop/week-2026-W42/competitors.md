@@ -94,3 +94,34 @@ Gaps nobody fills:
 - https://scribe.com/pricing
 - https://github.com/franzenzenhofer/big-arrow-on-the-screen
 - https://link.sfpl.org/resource/xa34D7sR5_U
+
+---
+
+# Round 3: Pain "tonal / heritage language speaking practice" (Cantonese)
+
+Summary:
+- **There is one direct competitor:** YumCha, an iOS app launched in 2026. It says it "grades your tones", but it got only 2 upvotes on Product Hunt, and its accuracy is UNKNOWN.
+- The Mandarin tone tool that sparked this is Mandarin-only, and its write-up gives no license, so we can't reuse it.
+- Free training data exists: Mozilla Common Voice has **307 hours** of Cantonese (211 validated), CC0 license. That's about the same amount the Mandarin author trained on (~300 hours). Catch: those clips may **not** be re-hosted, so we can't use them as the "listen to a native speaker" audio in the app.
+
+| Alternative | Link | Price | For who | Good at | Weak at | Alive? |
+|---|---|---|---|---|---|---|
+| YumCha | [hunted.space](https://www.hunted.space/product/yumcha) | "Free to start" (paid tiers UNKNOWN) | Cantonese learners, iOS | Lessons, native audio, "speech recognition that grades your tones" | 2 upvotes on Product Hunt; accuracy UNKNOWN; iOS-only | Yes (2026) |
+| The Mandarin tone grader (the Show HN) | [simedw.com](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/) | Free demo | Mandarin learners | Runs in the browser; 9M-parameter model | Mandarin only; native speakers sometimes marked wrong; no license stated | Yes |
+| Learn Cantonese: Speak & Read | [mwm.ai](https://mwm.ai/apps/heung-learn-speak-cantonese/6779881476) | UNKNOWN | Learners | Flashcards with Jyutping tone numbers | No pronunciation feedback shown | UNKNOWN |
+| Cantonese Tone Master (hackathon project) | [AI Tinkerers](https://aitinkerers.org/hackathons/h_jFxflFkVBWM/entries/ht_-1GS6RnDMvM) | Free prototype | Learners | Browser pitch tracking compared with reference pitch | Prototype only | Prototype |
+| Duolingo, Babbel and most big apps | (per search summary of a Clozemaster guide; the page itself returned 404, so this is unverified) | n/a | n/a | n/a | Reported to have no Cantonese at all | n/a |
+| A native-speaker partner or tutor | (habit) | Free to paid | Everyone | Best feedback | Not always available; awkward to ask family over and over | n/a |
+
+Gaps:
+- **Accurate tone feedback for Cantonese on any device** (web, not iOS-only).
+- **Heritage-speaker focus**: practice the phrases you'd actually say to your grandma, not textbook lessons.
+- Nobody we found shows **independent proof** their tone grading works.
+
+## Sources (round 3)
+- https://www.hunted.space/product/yumcha
+- https://simedw.com/2026/01/31/ear-pronunication-via-ctc/
+- https://mwm.ai/apps/heung-learn-speak-cantonese/6779881476
+- https://aitinkerers.org/hackathons/h_jFxflFkVBWM/entries/ht_-1GS6RnDMvM
+- https://datacollective.mozillafoundation.org/datasets/cmn29rqn9016to107eniyak65
+- https://www.clozemaster.com/blog/?p=7174 (returned 404 when fetched; cited only via search summary)

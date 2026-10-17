@@ -71,3 +71,44 @@ Answers: FaceTime needs a live call, and the pain is *repeating* yourself. The c
 - pain.md, Round 2 (this folder)
 - competitors.md, Round 2 (this folder)
 - https://news.ycombinator.com/item?id=50018817
+
+---
+
+# Round 3 - CEO on "ToneHome"
+
+Mode: board-meeting
+**Recommendation: GO, but only on the pitch-tracking v1**, and only if you can get one native speaker to record 30 phrases. This is the strongest demand of the week. It's also the riskiest build.
+
+| # | Question | Result | Evidence |
+|---|---|---|---|
+| 1 | Real demand evidence? | **PASS** | A 469-point, 153-comment Show HN; 14 quotes across 2025 and 2026; 1 "shut up and take my money"; repeated "not enough Cantonese resources" |
+| 2 | Every claim cited or UNKNOWN? | **PASS** | Costs, size and accuracy are marked UNKNOWN |
+| 3 | Survives the Skeptic seat? | **WEAK** | See below |
+| 4 | Narrowest wedge clear? | **PASS** | Heritage speakers, 30 family phrases, per-syllable tone marks |
+| 5 | 7-day test with pass/fail? | **PASS** | Includes an accuracy check with native speakers, not just signups |
+
+By the rules: questions 1, 4 and 5 PASS, and nothing FAILs, so **GO** is allowed.
+
+## Skeptic seat
+"YumCha already grades Cantonese tones. Tone grading is hard: the Mandarin tool marked native speakers wrong, and Cantonese has more tones. You can't even use the free data as playback audio. And you're a beginner."
+
+Answers: YumCha is iOS-only, and its accuracy is unproven. The 7-day test **measures accuracy directly**, with native speakers. Using our own recordings solves the licensing problem. The pitch-only v1 avoids spending money on model training. Still **untested**.
+
+## BigSteps vs ToneHome (if you pick one)
+
+| | BigSteps | ToneHome |
+|---|---|---|
+| Demand | Medium (2 "I'd pay") | Higher (469-point thread, 14 quotes) |
+| Build difficulty | Easy (1 to 3 days) | Medium-hard (audio and pitch math) |
+| Needs anything from you first? | No | Yes: a native speaker to record 30 phrases |
+| Biggest threat | FaceTime (free) | Grading accuracy |
+
+## What Spec Writer must keep in scope (if you say GO)
+- A website only. 30 phrases. Our own native recordings. Pitch tracking in the browser. No model training. No accounts.
+- Per-syllable result: right / wrong / not sure, plus the tone heard vs the tone expected.
+- A "Was this right? (for native speakers)" button to measure accuracy.
+- A $5/month waitlist email box. No real payments.
+
+## Sources (round 3)
+- strategy.md, Round 3; pain.md, Round 3; competitors.md, Round 3 (this folder)
+- https://news.ycombinator.com/item?id=46832074
