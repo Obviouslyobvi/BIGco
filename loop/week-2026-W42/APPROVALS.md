@@ -9,6 +9,17 @@ Read `ceo.md`. Then pick ONE:
 
 - [ ] Gate 1 - GO (Spec Writer may write SPEC.md)
 - [ ] Gate 1 - HOLD (park it, narrow the scope first)
+- [x] Gate 1 - EXPLORE (do more research first)
+- [ ] Gate 1 - KILL (drop it, log it in SCOREBOARD.md)
+
+Your words / time: "explore more optons" (2026-10-17 11:54 PDT, typed in chat)
+
+## Gate 1 (round 2) - CEO gate for BigSteps
+
+Read the "Round 2" section of `ceo.md`. Then pick ONE:
+
+- [ ] Gate 1 - GO (Spec Writer may write SPEC.md)
+- [ ] Gate 1 - HOLD (park it, narrow the scope first)
 - [ ] Gate 1 - EXPLORE (do more research first)
 - [ ] Gate 1 - KILL (drop it, log it in SCOREBOARD.md)
 

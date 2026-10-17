@@ -61,3 +61,41 @@ Score = number of quotes x average severity (1 = mild, 5 = "I'd pay anything to 
 - https://news.ycombinator.com/item?id=50129647
 - https://itp.cdn.icann.org/en/files/consensus-policies/fessenden-to-kane-2-28-07-2026-en.pdf
 - https://emaroloff.podbean.com/e/firehound-and-the-hidden-risk-of-vibe-coding
+
+---
+
+# Round 2 (you chose EXPLORE)
+
+Summary:
+- I added 17 more real quotes (71 total), using Hacker News's public search to reach back across 2026.
+- **New pain: "I'm stuck doing tech support for my aging parents."** It has the **highest average severity (3.7)** of any pain, and it's the **only one where people said "I would pay good money"**. Two different people said it, separately.
+- InstallCheck's evidence didn't grow. A 2026 search for "is this safe to install" found **0** comments, and the abandonment search found only 1 new relevant quote.
+
+| Rank | Pain | Quotes | Avg severity | Score | Explicit "I'd pay"? |
+|---|---|---|---|---|---|
+| 1 | cant-trust-installs | 11 | 3.4 | 37 | No |
+| 2 | **parent-tech-help** | 9 | **3.7** | 33 | **Yes, 2 people** |
+| 3 | llm-hardware-guess | 10 | 3.0 | 30 | No |
+| 4 | name-domain-loss | 9 | 3.1 | 28 | No |
+| 5 | late-payments | 5 | 3.2 | 16 | No (they fix it with contracts) |
+
+## parent-tech-help in detail
+- **Who:** adult children, many of them programmers, who are the family's "IT person".
+- **When:** a parent calls asking how to print, download or pay a bill, and the child has to talk them through it, often repeatedly.
+- **What they do today:** phone calls, visits, FaceTime screen sharing, printed guides with arrows drawn on screenshots.
+- Quotes:
+  - "Very VERY USABLE FOR old PEOPLE. I would pay good money for something like this on iPad!" [priyashunt](https://news.ycombinator.com/item?id=50022866)
+  - "Man, Ive lost count of How many times have I had to repeat this over the phone to my parents" [ghm2180](https://news.ycombinator.com/item?id=50018817)
+  - "it's even more painful for me to do the remote tech support for my (80+ years old) parents" [ndr42](https://news.ycombinator.com/item?id=47342765)
+- **Spread:** these quotes come from 5 different threads between January and October 2026, so it's a recurring pain, not one viral post.
+
+## Sources (round 2)
+- https://news.ycombinator.com/item?id=50018817
+- https://news.ycombinator.com/item?id=50022866
+- https://news.ycombinator.com/item?id=50019407
+- https://news.ycombinator.com/item?id=47342765
+- https://news.ycombinator.com/item?id=49704623
+- https://news.ycombinator.com/item?id=47506616
+- https://news.ycombinator.com/item?id=46800146
+- https://news.ycombinator.com/item?id=47638685
+- https://hn.algolia.com/api/v1/search?query=%22is%20this%20safe%20to%20install%22&tags=comment

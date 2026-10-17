@@ -37,3 +37,11 @@ web,https://mothasa.substack.com/p/vibe-coding-has-a-security-problem,Vibe Codin
 web,https://emaroloff.podbean.com/e/firehound-and-the-hidden-risk-of-vibe-coding,Firehound and the hidden risk of vibe coding,2026,UNKNOWN,about 200 App Store apps leaking data (secondary)
 reddit,UNKNOWN,Reddit,2026-10-17,UNKNOWN,BLOCKED: reddit.com and old.reddit.com refuse this session; web search returned no Reddit threads
 x,UNKNOWN,X,2026-10-17,UNKNOWN,NOT READ: X needs login for search; skipped per CLAUDE.md rule 4
+hackernews,https://news.ycombinator.com/item?id=50018817,Show HN: Let your AI agents paint big arrows boxes and text on your screen,2026-10-09,420 points,round 2 (Port Factory); parent tech help
+hackernews,https://news.ycombinator.com/item?id=47638685,Ask HN: How do you handle clients who don't pay on time?,2026-04-04,39 points / 50 comments,round 2 (B2B)
+hackernews,https://news.ycombinator.com/item?id=50071898,Launch HN: Agent37 - low-cost agent sandboxes,2026-10-12,UNKNOWN,round 2 (B2B)
+hackernews,https://news.ycombinator.com/item?id=47599303,Ask HN: Client took over development by vibe coding. What to do?,2026-04-01,63 points / 42 comments,round 2 (B2B)
+hn-search,https://hn.algolia.com/api/v1/search?query=%22I%20would%20pay%22&tags=comment,HN comments containing "I would pay" since Apr 2026,2026-10-17,182 hits,round 2 willingness-to-pay sweep
+hn-search,https://hn.algolia.com/api/v1/search?query=%22is%20this%20safe%20to%20install%22&tags=comment,HN comments "is this safe to install" in 2026,2026-10-17,0 hits,round 2 InstallCheck check: no extra demand found
+web,https://www.idropnews.com/how-to/ios-18-lets-you-give-remote-control-of-your-iphone-or-ipad-via-facetime/226438,iOS 18 FaceTime remote control,2024+,UNKNOWN,competitor to parent-tech-help
+web,https://scribe.com/pricing,Scribe pricing,2026-10-17,UNKNOWN,competitor to parent-tech-help

@@ -73,3 +73,73 @@ Honest read: zero real powers today. That's normal for week one.
 - https://socket.dev/pricing
 - https://mothasa.substack.com/p/vibe-coding-has-a-security-problem
 - https://itp.cdn.icann.org/en/files/consensus-policies/fessenden-to-kane-2-28-07-2026-en.pdf
+
+---
+
+# Round 2 (you chose EXPLORE)
+
+Summary:
+- **New pick: "BigSteps" (working name).** You do a task once on your own phone or computer and take a screenshot of each step. BigSteps turns them into a giant-arrow, big-text guide your parent opens from a link and follows one tap at a time.
+- Why it beats InstallCheck: it's the only idea with explicit "I would pay good money" quotes (2 people). It has the highest pain severity (3.7). And the quotes span 5 threads over 10 months, not one post.
+- The buyer is the adult child, the family "IT person". That's exactly the kind of person who writes these comments, so the Hacker News bias works in our favor here.
+- InstallCheck drops to runner-up: extra searching found no new demand.
+
+## Candidates (round 2)
+
+| # | Idea | Pain | Gap | Why / why not |
+|---|---|---|---|---|
+| 1 | **BigSteps**: giant-arrow guides for parents, shared by link | parent-tech-help (3.7 severity, 2 explicit "would pay") | Async, any device, senior-sized, family price | Best demand evidence so far; simple to build as a website |
+| 2 | InstallCheck | cant-trust-installs (score 37) | Plain-English verdict | Biggest raw score, but 0 new evidence in round 2 and no one said they'd pay |
+| 3 | Late-payment chaser for freelancers | late-payments | Weak | Free Zoho Invoice and $23 FreshBooks already send reminders; people fix it with contracts |
+| 4 | Agent credential broker | agent-credential-broker | Real but technical | Strong "would pay" from developers, but a YC company is already building it and it's hard for a beginner to build |
+
+## The pick: BigSteps
+
+### JTBD
+"When **my mom calls asking how to print something for the third time**, I want to **send her a guide she can follow on her own**, so I can **stop repeating myself on the phone**."
+Built from: [ghm2180](https://news.ycombinator.com/item?id=50018817) ("lost count of How many times..."), [arshxyz](https://news.ycombinator.com/item?id=50018817) ("my mom... download and print"), [lbreakjai](https://news.ycombinator.com/item?id=50019407) ("wouldn't even need to be agent-driven").
+
+### ERRC grid (vs FaceTime, Scribe and printed guides)
+
+| Eliminate | Reduce | Raise | Create |
+|---|---|---|---|
+| Needing a live call | Steps to make a guide | Arrow and text size (huge) | A link that works on *any* device |
+| Business per-seat pricing | Words per step (one short line) | One step per screen | "Mom tapped Done" alerts back to you |
+| Apple-only limits | Clutter | Re-use: same guide every time she asks | Shared family library of guides |
+
+### Thiel's 7 questions
+
+| Question | Answer | Evidence or UNKNOWN |
+|---|---|---|
+| Engineering: 10x better? | For this one job, possibly: FaceTime needs both people live, and Scribe is business-priced | [FaceTime limits](https://frankseasytechcorner.substack.com/p/using-apple-facetime-shareplay-on), [Scribe pricing](https://scribe.com/pricing). Real 10x is UNKNOWN until tested |
+| Timing: why now? | A 420-point Show HN this month shows appetite for "big arrows" help | [Show HN](https://news.ycombinator.com/item?id=50018817) |
+| Monopoly: small market we can own? | "Adult children doing tech support for parents": a clear, emotional niche | Size UNKNOWN |
+| People: can we build it? | Yes. v1 is a website: upload images, place arrows, share a link | Within Claude Code's reach |
+| Distribution: how do people find it? | Show HN, a reply to the big-arrow thread, and people forwarding a guide to siblings | Untested |
+| Durability: 10 years? | Parents age and apps keep changing, so the need repeats | Reasoning, not data. UNKNOWN |
+| Secret | People don't want *live* help. They want to stop *repeating* help | Quotes above, all about repetition |
+
+### 7 Powers
+Zero today. Possible later: **switching costs** (a family's saved guide library) and **network economies** (guides shared between families for common tasks like "print a PDF on an iPad"). Both are speculative.
+
+### Narrowest wedge
+**Adult children who are the family IT person, with a parent on an iPad.** One job: upload 2 to 8 screenshots, tap where the arrow goes, type one short line per step, and get a link. The parent sees one step per screen with a giant arrow, huge text and a big "Next" button.
+
+### 7-day test
+- **Do:** the human posts a Show HN and one reply in the big-arrow thread. (Bots never post.)
+- **Pass:** 30 or more guides made by strangers, **and** 10 or more guide links opened on a second device (meaning a parent actually viewed one), **and** 10 or more emails on a "family plan, $3/month, interested?" waitlist.
+- **Fail:** fewer than 10 guides made, or fewer than 3 opened on a second device. Then stop.
+
+## Runners-up
+- **InstallCheck:** keep it in MEMORY.md as "promising but unproven". Re-test if a non-HN source shows demand.
+- **Agent credential broker:** real willingness to pay, but too technical for this team right now.
+
+## Sources (round 2)
+- https://news.ycombinator.com/item?id=50018817
+- https://news.ycombinator.com/item?id=50019407
+- https://news.ycombinator.com/item?id=50022866
+- https://news.ycombinator.com/item?id=47342765
+- https://frankseasytechcorner.substack.com/p/using-apple-facetime-shareplay-on
+- https://scribe.com/pricing
+- https://news.ycombinator.com/item?id=50071898
+- https://dupple.com/learn/best-invoicing-software-for-freelancers

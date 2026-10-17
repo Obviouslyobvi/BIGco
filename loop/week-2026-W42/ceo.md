@@ -35,3 +35,39 @@ Spec Writer must keep it to: one page, paste a public GitHub link, a verdict plu
 - https://socket.dev/pricing
 - strategy.md (this folder)
 - competitors.md (this folder)
+
+---
+
+# Round 2 - CEO on "BigSteps"
+
+Mode: board-meeting
+**Recommendation: GO**, with a tight scope. It clears the bar that InstallCheck missed: people said they'd pay, and the pain shows up again and again across 2026.
+
+| # | Question | Result | Evidence |
+|---|---|---|---|
+| 1 | Real demand evidence? | **PASS (just)** | A 420-point Show HN, 2 separate "I would pay good money" comments, and 9 quotes from 5 threads between January and October 2026. Still Hacker News only, but the people commenting are the buyers |
+| 2 | Every claim cited or UNKNOWN? | **PASS** | Round 2 of strategy.md cites each claim; size and durability are honestly UNKNOWN |
+| 3 | Survives the Skeptic seat? | **WEAK** | See below |
+| 4 | Narrowest wedge clear? | **PASS** | Family IT person, parent on an iPad, 2 to 8 screenshots, one link |
+| 5 | 7-day test with pass/fail? | **PASS** | Pass: 30 guides, 10 opened on a second device, 10 waitlist emails. Fail: under 10 guides or under 3 opens |
+
+By the rules: questions 1, 4 and 5 PASS, and nothing FAILs, so **GO** is allowed.
+
+## Skeptic seat
+"FaceTime already lets you draw on your mom's screen for free. And 'I'd pay good money' in a comment section is cheap talk. Most people never pay for family tools."
+
+Answers: FaceTime needs a live call, and the pain is *repeating* yourself. The cheap-talk risk is real, which is why the 7-day test includes a $3/month waitlist instead of trusting comments. **Untested.**
+
+## What Spec Writer must keep in scope (if you say GO)
+- A website only. No app store, no accounts in v1, no AI.
+- Upload screenshots, then tap to place one giant arrow per step, then add one short caption.
+- A share link that shows one step per screen with a huge "Next" button and a "Done" screen.
+- Count guide creations and opens (no personal data) for the 7-day test.
+- A waitlist email box for the $3/month family plan. No real payments.
+- Clean-room: no code, name or design copied from big-arrow-on-the-screen.
+
+## Sources (round 2)
+- strategy.md, Round 2 (this folder)
+- pain.md, Round 2 (this folder)
+- competitors.md, Round 2 (this folder)
+- https://news.ycombinator.com/item?id=50018817

@@ -63,3 +63,34 @@ Gap: a **directed migration path**, the thing the ICANN reconsideration request 
 - https://support.rebel.ca/hc/en-us/articles/55084700906523-How-to-Manage-Email-Forwarding-for-a-NAME-Domain-firstname-lastname-name
 - https://support.enom.com/support/solutions/articles/201000127176--name-domain-policies
 - https://www.icann.org/en/system/files/files/reconsideration-multiple-correspondence-spiridonov-to-icann-29sep26-en.pdf
+
+---
+
+# Round 2: Pain "tech support for aging parents"
+
+Summary:
+- The big free competitor is **FaceTime's remote control and drawing** (iOS 18+). But both people must be on iPhone or iPad, on a live call at the same time.
+- **Scribe** makes step-by-step guides with screenshots, but it's priced for businesses ($25 to $35 per seat per month for Pro). On the free plan, capture works only in the browser.
+- **Gap:** a guide made *for* a parent that they can follow later, alone, on any device, with giant arrows and big text. Nobody offers that at a family price.
+
+| Alternative | Link | Price | For who | Good at | Weak at | Alive? |
+|---|---|---|---|---|---|---|
+| FaceTime screen share + remote control | [iDrop News](https://www.idropnews.com/how-to/ios-18-lets-you-give-remote-control-of-your-iphone-or-ipad-via-facetime/226438) | Free (built in) | Apple families | Live help; helper can draw on the screen ([9to5Mac](https://9to5mac.com/2024/06/25/hands-on-with-shareplay-remote-control-on-ipados-18-video/)) | Needs a live call; Apple-only; reports say iPhone-to-iPhone and iPad-to-iPad only ([Frank's Easy Tech Corner](https://frankseasytechcorner.substack.com/p/using-apple-facetime-shareplay-on)); drawings disappear afterward | Yes |
+| Scribe | [scribe.com/pricing](https://scribe.com/pricing) | Free (browser only); Pro $25 to $35 per seat per month | Businesses documenting processes | Auto-captures steps | Business-priced; mobile and desktop capture is Pro-only; normal-size arrows and text | Yes |
+| big-arrow-on-the-screen | [GitHub](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Free | Mac users with AI agents | Giant arrows | Mac-only; live, agent-driven; not a saved guide | New (Oct 2026) |
+| Printed guides and books | e.g. [My iPhone for Seniors](https://link.sfpl.org/resource/xa34D7sR5_U) | Book price | Seniors | Big pictures with callouts | Generic, not *your* parent's exact screen; goes out of date | Yes |
+| Remote desktop (TeamViewer, Chrome Remote Desktop) | (general knowledge; not checked this week) | UNKNOWN | Technical helpers | Full control | Parent has to install and run it; live only | UNKNOWN |
+
+Gaps nobody fills:
+- **Async:** help that works when you're not on the phone. Every quote above is about *repeating* yourself.
+- **Any device:** a link that opens on an iPad, Android tablet, Windows PC or Mac.
+- **Senior-sized:** giant arrows, one step per screen, a huge "Next" button. That's what the 420-point Show HN got right.
+- **Family-priced:** Scribe's paid plans are priced per business seat.
+
+## Sources (round 2)
+- https://www.idropnews.com/how-to/ios-18-lets-you-give-remote-control-of-your-iphone-or-ipad-via-facetime/226438
+- https://9to5mac.com/2024/06/25/hands-on-with-shareplay-remote-control-on-ipados-18-video/
+- https://frankseasytechcorner.substack.com/p/using-apple-facetime-shareplay-on
+- https://scribe.com/pricing
+- https://github.com/franzenzenhofer/big-arrow-on-the-screen
+- https://link.sfpl.org/resource/xa34D7sR5_U
