@@ -1,1 +1,39 @@
 source,url,title,date,engagement,notes
+hackernews,https://news.ycombinator.com/item?id=50089577,Tell HN: Remember to migrate away from .name domain,2026-10,105 points / 69 comments,third-level .name shutdown
+hackernews,https://news.ycombinator.com/item?id=50067325,Ask HN: CAD for wood working with LLM support?,2026-10,126 points / 127 comments,hobby CAD + AI
+hackernews,https://news.ycombinator.com/item?id=50090796,Ask HN: Are you hesitant to install vibe-coded apps?,2026-10,18 points / 23 comments,trust before install
+hackernews,https://news.ycombinator.com/item?id=50129647,Survey: How do you create the video demo for your project or product?,2026-10,2 points / 3 comments,demo video pain
+hackernews,https://news.ycombinator.com/item?id=50118474,Ask HN: Thoughts on hiring junior engineers in 2026?,2026-10,11 points / 20 comments,not pursued
+hackernews,https://news.ycombinator.com/item?id=50081189,Ask HN: Where has creativity in software gone?,2026-10,36 points / 25 comments,not pursued
+hackernews,https://news.ycombinator.com/item?id=50080125,Domain Health,2026-10,9 points / 4 comments,domain management
+hackernews,https://news.ycombinator.com/item?id=50112559,Tell HN: Google Argon on a Pro subscription is worthless,2026-10,9 points / 9 comments,AI subscription value
+hackernews,https://news.ycombinator.com/item?id=50127979,Show HN: Llmspeed - feel how fast a local LLM runs before you buy the hardware,2026-10,204 points / 66 comments,local LLM hardware
+hackernews,https://news.ycombinator.com/item?id=50118153,Show HN: Capy-flash - a 125B MoE model on two 16 GB consumer GPUs,2026-10,7 points / 2 comments,local LLM hardware
+hackernews,https://news.ycombinator.com/item?id=50122431,Llama.cpp on a jailbroken PS5,2026-10,352 points / 83 comments,local LLM hardware
+hackernews,https://news.ycombinator.com/item?id=50129045,DeepSeek-v4.1-Flash-1017,2026-10,469 points / 462 comments,local/open models
+hackernews,https://news.ycombinator.com/item?id=50090932,Show HN: I wrote an email app that accepts only one sender per inbox,2026-10,114 points / 97 comments,email control
+hackernews,https://news.ycombinator.com/item?id=50122776,Show HN: Stoke Money - Personal finance app built around a cash flow forecast,2026-10,31 points / 19 comments,personal finance
+hackernews,https://news.ycombinator.com/item?id=50118876,Show HN: rStation - A shared research lab for your AI agents,2026-10,54 points / 19 comments,agent tooling
+hackernews,https://news.ycombinator.com/item?id=50122767,Show HN: Weatherdeck - a read-only status board for AI coding agent lanes,2026-10,9 points / 0 comments,agent tooling
+hackernews,https://news.ycombinator.com/item?id=50102247,Show HN: Unfenced - Land for sale that borders public land,2026-10,313 points / 200 comments,niche data product
+hackernews,https://news.ycombinator.com/item?id=50077020,Show HN: Guitoro - a virtual guitar you strum with your keyboard,2026-10,571 points / 161 comments,toy/fun
+hackernews,https://news.ycombinator.com/item?id=50092470,Show HN: Petal - open-source CoScreen/ScreenHero,2026-10,222 points / 41 comments,screen sharing
+github,https://github.com/morluto/rea,morluto/rea - Agent-based reverse engineering,2026-10,248962 stars this week,UNKNOWN why so many stars; possibly the REA in the diagram
+github,https://github.com/heygen-com/hyperframes,heygen-com/hyperframes - write HTML and render video for agents,2026-10,5601 stars this week,demo/launch video
+github,https://github.com/mksglu/context-mode,mksglu/context-mode - context window optimization for AI coding agents,2026-10,4207 stars this week,agent context
+github,https://github.com/ranxianglei/billion-context,ranxianglei/billion-context - context compression plugin,2026-10,779 stars this week,agent context
+github,https://github.com/cathrynlavery/diagram-design,cathrynlavery/diagram-design,2026-10,9024 stars this week,AI design tooling
+producthunt,https://www.producthunt.com/products/notion,Notion: Context for your agents,2026-10-17,135 (unlabeled count),agent context
+producthunt,https://www.producthunt.com/products/context-dev,GPU Terminal by Context.dev - compare GPU rental prices,2026-10-17,89 (unlabeled count),local vs cloud GPU
+producthunt,https://www.producthunt.com/products/ultracite,Ultracite v8 - linter for agentic development,2026-10-17,87 (unlabeled count),code quality / trust
+producthunt,https://www.producthunt.com/products/unfenced,Unfenced,2026-10-17,84 (unlabeled count),same as HN
+producthunt,https://www.producthunt.com/products/spira-ai,Spira Maxima - script to social video,last week,636 (unlabeled count),demo/launch video
+producthunt,https://www.producthunt.com/products/rill-3,Rill Browser - Claude Code and Codex beside you,last week,519 (unlabeled count),agent tooling
+producthunt,https://www.producthunt.com/products/draper,Draper - validate plan and launch a business,2026-10-17,77 (unlabeled count),idea validation (like bigco)
+web,https://itp.cdn.icann.org/en/files/consensus-policies/fessenden-to-kane-2-28-07-2026-en.pdf,ICANN letter to Verisign on third-level .name,2026-07-28,UNKNOWN,about 22000 third-level registrations; most unused
+web,https://www.icann.org/en/system/files/files/reconsideration-multiple-correspondence-spiridonov-to-icann-29sep26-en.pdf,Request for Reconsideration (Spiridonov),2026-09-29,UNKNOWN,asks for directed migration path
+web,https://support.enom.com/support/solutions/articles/201000127176--name-domain-policies,Enom .name policies,2026,UNKNOWN,support ended June 19 2026
+web,https://mothasa.substack.com/p/vibe-coding-has-a-security-problem,Vibe Coding Has a Security Problem,2026,UNKNOWN,secondary source for security stats
+web,https://emaroloff.podbean.com/e/firehound-and-the-hidden-risk-of-vibe-coding,Firehound and the hidden risk of vibe coding,2026,UNKNOWN,about 200 App Store apps leaking data (secondary)
+reddit,UNKNOWN,Reddit,2026-10-17,UNKNOWN,BLOCKED: reddit.com and old.reddit.com refuse this session; web search returned no Reddit threads
+x,UNKNOWN,X,2026-10-17,UNKNOWN,NOT READ: X needs login for search; skipped per CLAUDE.md rule 4

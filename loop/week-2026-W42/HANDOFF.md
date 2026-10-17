@@ -5,4 +5,10 @@ Format: `[time PDT] [bot] DONE -> [file] -> next: [bot]`
 
 ```
 [2026-10-17 11:04 PDT] [new-week.sh] DONE -> folder created -> next: Scout
+[2026-10-17 11:14 PDT] [Scout] DONE -> trending.md, raw/sources.csv (Reddit blocked, X skipped) -> next: Pain Miner
+[2026-10-17 11:14 PDT] [Pain Miner] DONE -> feedback.csv (54 rows), pain.md -> next: Competitor Mapper
+[2026-10-17 11:14 PDT] [Competitor Mapper] DONE -> competitors.md -> next: Behavior Reverser
+[2026-10-17 11:14 PDT] [Behavior Reverser] DONE -> investigation.md (skipped: no authorized targets) -> next: Strategy Lead
+[2026-10-17 11:14 PDT] [Strategy Lead] DONE -> strategy.md -> next: CEO
+[2026-10-17 11:14 PDT] [CEO] DONE -> ceo.md, SCOREBOARD.md (recommends EXPLORE) -> next: HUMAN Gate 1
 ```
